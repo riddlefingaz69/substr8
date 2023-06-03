@@ -1,0 +1,2 @@
+- name: setup-substrate
+  uses: chiefbiiko/setup-substrate@v0.2.2
